@@ -1,6 +1,6 @@
 ## EX NO 1: Cloud-account-set-up-and-services
-## Name : JWALAMUKHI S
-## Reg no: 212223040079
+## Name : Vasanthi Sivasankar
+## Reg no: 212223040234
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
